@@ -1,0 +1,8 @@
+body{
+    background: rgb(34,193,195);
+    background: linear-gradient(50deg, rgba(34,193,195,1) 0%, rgba(253,233,45,0.9894082633053222) 100%);
+    font-size: 2em;
+}
+h1{
+    color: white;
+}
